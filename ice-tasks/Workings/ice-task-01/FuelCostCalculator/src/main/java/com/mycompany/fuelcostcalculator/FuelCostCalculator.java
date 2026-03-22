@@ -2,10 +2,10 @@
  * @author jaysonigrec ST10532494
  * 
  * References:
- * Coding with John, 2020. How Do We Get User Input in Java? - Full Tutorial. [video online] Available at: <https://youtu.be/bI7kQq9cjmQ?si=_ZCBdK60EDNCI94z> [Accessed 22 March 2026]
- * Professor Hank Stalica, 2025. Java Formatting Output: printf and Format Specifiers (%s, %f, %d). [video online] Available at: <https://youtu.be/fhAOahZl1pA?si=sxaEu-j7O-sGoDow> [Accessed 22 March 2026]
- * VC Lecture Series, 2026. PROG5121 - Weekly Collab Session 2 (10-3-2026). [video online] Available at: <https://youtu.be/M0f6D5rfkMo?si=wTRQrCMwFNyLi3lY> [Accessed 22 March 2026]
- * w3schools, 2026. Java String format() Method. [online] Available at: <https://www.w3schools.com/java/ref_string_format.asp> [Accessed 22 March 2026]
+ * Coding with John, 2020. How Do We Get User Input in Java? - Full Tutorial. [video online] Available at: <https://youtu.be/bI7kQq9cjmQ?si=_ZCBdK60EDNCI94z> [Accessed 22 March 2026].
+ * Professor Hank Stalica, 2025. Java Formatting Output: printf and Format Specifiers (%s, %f, %d). [video online] Available at: <https://youtu.be/fhAOahZl1pA?si=sxaEu-j7O-sGoDow> [Accessed 22 March 2026].
+ * VC Lecture Series, 2026. PROG5121 - Weekly Collab Session 2 (10-3-2026). [video online] Available at: <https://youtu.be/M0f6D5rfkMo?si=wTRQrCMwFNyLi3lY> [Accessed 22 March 2026].
+ * w3schools, 2026. Java String format() Method. [online] Available at: <https://www.w3schools.com/java/ref_string_format.asp> [Accessed 22 March 2026].
  */
 
 package com.mycompany.fuelcostcalculator;
