@@ -10,3 +10,4 @@ nbproject/private/
 build/
 dist/
 *.class
+/ice-tasks/ice-task-01/FuelCostCalculator/target/
