@@ -11,3 +11,4 @@ build/
 dist/
 *.class
 /ice-tasks/ice-task-01/FuelCostCalculator/target/
+/ice-tasks/Workings/ice-task-02/Ai_Rubber_Duck_Activity/target/
