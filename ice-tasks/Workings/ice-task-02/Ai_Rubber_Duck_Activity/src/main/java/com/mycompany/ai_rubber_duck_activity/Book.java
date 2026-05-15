@@ -24,11 +24,5 @@ public class Book {
         } else {
             System.out.println("Please only use positve values.");
         }
-    }
-    
-    
-    
-    
-    
-    
+    } 
 }
